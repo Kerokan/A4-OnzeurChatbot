@@ -6,10 +6,9 @@ const Discord = require('discord.js');
 const {Wit, log} = require('node-wit');
 
 const client = new Wit({accessToken: conf.Wit.accessToken});
-
 const token = conf.Discord.Token;
-
 const bot = new Discord.Client();
+
 bot.login(token);
 bot.on('ready', () => {
   console.log('Logged in as ' + bot.user.tag);
