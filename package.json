@@ -1,0 +1,21 @@
+{
+  "name": "onzeurchatbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martin CAM & Vincent CANIPEL",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
+    "discord": "^0.8.2",
+    "discord.js": "^12.0.2",
+    "express": "^4.17.1",
+    "ngrok": "^3.2.7",
+    "node-wit": "^5.0.0",
+    "request": "^2.88.2"
+  }
+}
