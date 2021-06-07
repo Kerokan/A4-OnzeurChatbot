@@ -1,5 +1,8 @@
 # Onzeur Chatbot!
 
+### Project by Martin CAM and Vincent CANIPEL
+---
+
 Hello ! The **Onzeur Chatbot** is a chatbot using the Genius API from the [Genius Website](https://genius.com/) to provide the user informations about songs. The implementation of the bot was made with Discord as a Discord bot. The Discord bot can be added on any Discord server and used as long as the script is running on a computer. To understand what a user says, the chatbot use Wit.ai with several sentences tested.
 
 
